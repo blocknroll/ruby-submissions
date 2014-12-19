@@ -12,7 +12,7 @@
 * DJ Greenfield:
 * David E Maurer:
 * Edward McCarthy:
-* Fred Block:
+* Fred Block: https://gist.github.com/blocknroll/b455f9aebcdb4db9e419
 * Jack Yeh:
 * Jeffrey Gu:
 * Juan Manuel Navarro:
